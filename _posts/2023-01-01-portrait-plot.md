@@ -1,6 +1,6 @@
 ---
 title: "Interactive Portrait Plot Test Page"
-date: 2023-09-12
+date: 2023-01-01
 published: true
 tags: [dataviz, hvplot, holoviews]
 excerpt: "Embedding interactive chart on static page using Jekyll."
